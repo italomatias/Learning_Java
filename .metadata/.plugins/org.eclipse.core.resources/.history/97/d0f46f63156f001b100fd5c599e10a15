@@ -1,0 +1,10 @@
+package logica.operadores.aritimeticos;
+
+public class operacoes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

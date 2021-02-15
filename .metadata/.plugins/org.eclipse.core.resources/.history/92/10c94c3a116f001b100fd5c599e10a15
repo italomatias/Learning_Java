@@ -1,0 +1,18 @@
+package logica.variaveis;
+
+public class logica_variaveis {
+
+	public static void main(String[] args) {
+		// Comentário em Java
+		//int idade;		
+		//idade = 26;
+		int idade = 26 ;
+		double nota = 8.6;
+		boolean ligado = true;
+		boolean ativo = false;
+		// String não é um tipo primitivo e Strings sempre em Aspas duplas
+		String nome = "Italo Reis";
+		 
+	}
+
+}

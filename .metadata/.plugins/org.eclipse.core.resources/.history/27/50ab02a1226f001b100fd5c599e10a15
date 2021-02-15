@@ -1,0 +1,27 @@
+package logica.operadores.aritimeticos;
+
+public class logicos {
+
+	public static void main(String[] args) {
+
+		boolean a = true ;
+		boolean b = !a;  // !  é not no JAVA 
+		
+		System.out.print(b);
+		
+		boolean c = true;
+		boolean d = true;
+		boolean e = c && d; // && é  And JAVA
+		
+		System.out.println(e);
+		
+		boolean f = true;
+		boolean g = false;
+		boolean h = f ||  g   ; // ||  é OR no JAVA 
+		
+		System.out.println(h);
+		
+
+	}
+
+}

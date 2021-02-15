@@ -1,0 +1,11 @@
+package logica.variaveis;
+
+public class logica_variaveis {
+
+	public static void main(String[] args) {
+		
+		int idade;
+		idade = 26;
+	}
+
+}

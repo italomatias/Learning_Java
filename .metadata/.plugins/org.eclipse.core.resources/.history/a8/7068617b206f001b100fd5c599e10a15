@@ -1,0 +1,20 @@
+package logica.operadores.aritimeticos;
+
+import br.com.softblue.commons.io.Console;
+
+public class relacionais {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Digite um número : ");
+		int n1 = Console.readInt();
+		
+		System.out.println("Digite um número : ");
+		int n2 = Console.readInt();
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package logica.operadores.aritimeticos;
+
+public class logicos {
+
+	public static void main(String[] args) {
+
+		boolean a = true ;
+		boolean b = !a;  // !  é not no JAVA 
+		
+		System.out.print(b);
+
+	}
+
+}
