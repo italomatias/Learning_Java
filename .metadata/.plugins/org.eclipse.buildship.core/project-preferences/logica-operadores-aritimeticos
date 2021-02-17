@@ -1,5 +1,5 @@
 #
-#Sun Feb 14 21:19:23 BRT 2021
+#Sun Feb 14 21:39:15 BRT 2021
 derivedResources=.gradle;build
 linkedResources=
 classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n<classpathentry kind\="lib" path\="C\:/Users/Italo/.gradle/caches/modules-2/files-2.1/com.github.softbluecursos/softblue-commons/1.0/2e89c724585b0a6c7a63df787351dd4d969ec129/softblue-commons-1.0.jar" sourcepath\="C\:/Users/Italo/.gradle/caches/modules-2/files-2.1/com.github.softbluecursos/softblue-commons/1.0/bff9c9aaff2343a56f9cd979c30a0ca93c3bb2ed/softblue-commons-1.0-sources.jar">\r\n\t<attributes>\r\n\t\t<attribute name\="gradle_used_by_scope" value\="main,test"/>\r\n\t</attributes>\r\n</classpathentry>\r\n</classpath>\n
